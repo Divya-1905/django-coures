@@ -1,0 +1,44 @@
+/* form button {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70%;
+    align-items: center;
+}
+form span {
+    color: brown;
+}
+form {
+    background-color: cadetblue;
+}
+form textarea{
+    background-color: burlywood;
+    border-radius: 30px;
+    border: 6vh;
+    /* aborder-style: double ; */
+/* } */
+/* form p {
+    align-items: center;
+    /* background-color:blue; */
+    /* font-size: 3dvh;
+    font-family: "Moo Lah Lah";
+} */ 
+
+form {
+    text-align: center;
+    margin-top: 35%;
+    border: 2px solid black;
+    width: 75%;
+    height: 5%;
+    padding: 8%;
+}
+form input {
+    margin-top: 4%;
+    text-align: justify;
+}
+form button{
+    margin-top: 4%;
+}
+form label {
+   margin-left: 8%;
+
+}
